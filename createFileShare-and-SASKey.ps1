@@ -1,4 +1,4 @@
-﻿# Script that will use or create a storage account in order to create dedicated share container
+﻿# Script that will use or create a storage account in order to create dedicated share containers
 # Each share will be set to 5 GiB quota and will have a dedicated Access policy
 # script returns the URL and SAS token which could be comunicated to the client
 # Author : Sébastien Michel
